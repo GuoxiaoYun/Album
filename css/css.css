@@ -1,0 +1,39 @@
+body, td, th {
+    color: #433A3A;
+    font-family: "ËÎÌו";
+    font-size: 12px;
+}
+
+body {
+    background-color: #fff;
+    margin: 0 auto;
+    width: 866px;
+}
+
+.a {
+	
+    color: #fc7419;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+a {
+    color: #fff;
+    font-weight: bold;
+}
+
+a:link {
+    color: #093CC1;
+    font-size: 13px;
+}
+
+a:visited {       
+	
+    color: #003300;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EC4D00;
+    text-decoration: none;
+}

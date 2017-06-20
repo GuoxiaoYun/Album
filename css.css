@@ -1,0 +1,131 @@
+.tongyongzi {
+    color: #FFFFFF;
+    font-family: "宋体";
+    font-size: 12px;
+    font-weight: normal;
+    font-weight: bold;
+}
+
+.wenbenkuang {
+    border: 1px solid #5F5F5F;
+    height: 19px;
+}
+
+.gundongzi {
+    color: #787878;
+    font-family: "宋体";
+    font-size: 12px;
+}
+
+.tupianmingcheng1 {
+    color: #626365;
+    font-family: "宋体";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.tupianmingcheng2 {
+    color: #FF6600;
+    font-family: "宋体";
+    font-size: 12px;
+}
+
+.tdborder { border: #D8D8D8 1px dashed; }
+
+.fenye1 {
+    color: #000000;
+    font-family: "宋体";
+    font-size: 12px;
+}
+
+.fenye2 {
+    color: #808080;
+    font-family: "宋体";
+    font-size: 12px;
+}
+
+.fenye3 {
+    color: #0000FF;
+    font-family: "宋体";
+    font-size: 12px;
+}
+
+.border2 {
+    border: #CFCDCD 1px solid;
+    border-left-style: none;
+}
+
+.border { border: #CFCDCD 1px solid; }
+
+.tupianzhuti {
+    color: #FFFFFF;
+    font-family: "宋体";
+    font-size: 14px;
+}
+
+.biaodanzi {
+    color: #000000;
+    font-family: "宋体";
+    font-size: 12px;
+}
+
+.biaogese {
+    background: #FEDCC3;
+    color: #B93D05;
+    font-family: "宋体";
+    font-size: 12px;
+    line-height: 26px;
+}
+
+.fenyebeijingse {
+    background: #FFF1E5;
+    color: #B93D05;
+    font-family: "宋体";
+    font-size: 12px;
+    line-height: 21px;
+}
+
+.shanchu:link {
+    color: #E86B32;
+    font-family: "宋体";
+    font-size: 12px;
+    line-height: 16px;
+    text-decoration: none;
+}
+
+.shanchu:visited {
+    color: #E86B32;
+    font-family: "宋体";
+    font-size: 12px;
+    line-height: 16px;
+    text-decoration: none;
+}
+
+.shanchu:hover {
+    color: #000000;
+    font-family: "宋体";
+    font-size: 12px;
+    line-height: 16px;
+    text-decoration: none;
+}
+
+.shanchu:active {
+    color: #000000;
+    font-family: "宋体";
+    font-size: 12px;
+    line-height: 16px;
+    text-decoration: none;
+}
+
+.daohangwenzi {
+    color: #8E563C;
+    font-family: "宋体";
+    font-size: 12px;
+}
+
+.daohangweizi2 {
+    color: #8E563C;
+    font-family: "宋体";
+    font-size: 12px;
+    font-weight: bold;
+}
